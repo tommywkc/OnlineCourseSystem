@@ -1,0 +1,40 @@
+
+
+.lecture-container, .poll-container {
+    background-color: rgba(0, 125, 214, 0.13);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    text-align: center;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+
+
+}
+
+.lecture-title, .poll-title {
+    margin: 0;
+    margin-bottom: 20px;
+    color: #003270
+}
+
+.lecture-links, .poll-links {
+    margin-top: 0;
+}
+
+.list-btn {
+    background-color: rgba(69, 69, 69, 0.28);
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.list-btn:hover {
+    background-color: #003270 ;
+}

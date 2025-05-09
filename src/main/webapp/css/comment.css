@@ -1,0 +1,13 @@
+.comment-text {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  display: block;
+  text-align: left;
+}
+
+.comment-container {
+  overflow-wrap: break-word;
+  width: 100%;
+}

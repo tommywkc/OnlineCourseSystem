@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('../images/white.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.13);
+    padding: 5px;
+    border-bottom: 2px solid #ccc;
+}
+
+.title ,.course-title{
+    color: #1c1c1c;
+
+}
+
+.logo {
+    margin-right: 10px;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+
+.login-btn{
+    background-color:  #003270 ;
+    color: #ffffff;
+}
+
+.login-btn:hover {
+    background-color: #004bae  ;
+    color: #ffffff;
+}
