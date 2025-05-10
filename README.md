@@ -61,6 +61,7 @@ Open browser: http://localhost:8089/S380F_groupProject/index
 
 ### Default User Accounts
 - Teachers</br>
+
 Username: keith</br>
 Password: keithpw</br>
 Role: ROLE_TEACHER
@@ -71,6 +72,7 @@ Role: ROLE_TEACHER
 
 
 - Students</br>
+
 Username: smith</br>
 Password: smithpw</br>
 Role: ROLE_STUDENT
