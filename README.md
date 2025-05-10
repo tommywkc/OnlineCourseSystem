@@ -49,6 +49,9 @@ A robust web application for managing online courses, built with Spring Boot and
 - IntelliJ IDEA
 - Gradle
 
+### Access the application:
+Open browser: http://localhost:8089/S380F_groupProject/index
+
 ### Database Configuration
 - H2 Database Settings
 - Database Name: mydb
