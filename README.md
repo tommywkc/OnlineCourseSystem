@@ -43,6 +43,12 @@ A robust web application for managing online courses, built with Spring Boot and
 - Spring Data JPA
 - H2 Database
 
+
+### Prerequisites
+- Java Development Kit (JDK) 17+
+- IntelliJ IDEA
+- Gradle
+
 ### Database Configuration
 - H2 Database Settings
 - Database Name: mydb
@@ -55,7 +61,7 @@ A robust web application for managing online courses, built with Spring Boot and
 Username: keith
 Password: keithpw
 Role: ROLE_TEACHER
-
+</br>
 Username: test1
 Password: test1pw
 Role: ROLE_TEACHER
@@ -65,7 +71,7 @@ Role: ROLE_TEACHER
 Username: smith
 Password: smithpw
 Role: ROLE_STUDENT
-
+</br>
 Username: test2
 Password: test2pw
 Role: ROLE_STUDENT
