@@ -1,6 +1,6 @@
 # Online Course Management System
 
-A robust web application for managing online courses, built with Spring Boot and modern Java technologies.
+A web application for managing online courses, built with Spring Boot and Java technologies.
 
 ## Features
 
