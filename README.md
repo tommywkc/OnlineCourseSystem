@@ -10,6 +10,7 @@ A robust web application for managing online courses, built with Spring Boot and
 - Real-time polling system
 - Interactive commenting system
 - Secure file management
+- Multiple languages 
 
 ### User Access Levels
 
@@ -80,3 +81,16 @@ Role: ROLE_STUDENT
 Username: test2</br>
 Password: test2pw</br>
 Role: ROLE_STUDENT
+
+=====================================================
+
+![image](https://github.com/user-attachments/assets/7b54829b-bdd3-49f2-80ba-b10c58ffef23)
+![image](https://github.com/user-attachments/assets/a30bd096-927e-486c-b8f2-b1b1023ac2c1)
+![image](https://github.com/user-attachments/assets/fbecbbc4-25df-4b40-8da6-733a8d222fcc)
+![image](https://github.com/user-attachments/assets/ddaeda2b-faac-4baf-907e-895c6bc3f21e)
+![image](https://github.com/user-attachments/assets/9cac072d-fe3c-4f11-8b8f-e0fc3f46a798)
+
+
+
+
+
