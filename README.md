@@ -58,20 +58,20 @@ A robust web application for managing online courses, built with Spring Boot and
 
 ### Default User Accounts
 - Teachers
-Username: keith
-Password: keithpw
+Username: keith</br>
+Password: keithpw</br>
 Role: ROLE_TEACHER
 </br>
-Username: test1
-Password: test1pw
+Username: test1</br>
+Password: test1pw</br>
 Role: ROLE_TEACHER
 
 
 - Students
-Username: smith
-Password: smithpw
+Username: smith</br>
+Password: smithpw</br>
 Role: ROLE_STUDENT
 </br>
-Username: test2
-Password: test2pw
+Username: test2</br>
+Password: test2pw</br>
 Role: ROLE_STUDENT
